@@ -5,7 +5,7 @@
 💬 Ask me about Email <u>wangshibo142@gmail.com</u>
 
 - 记录Bilibili弹幕：[BiliComment](https://github.com/See-Night/BiliComment)
-- 自动化直播录制器：[RecStream][https://github.com/See-Night/RecStream]
+- 自动化直播录制器：[RecStream](https://github.com/See-Night/RecStream)
 - 基于web的v2ray可视化配置工具：[V2Manager](https://github.com/See-Night/V2Manager)
 - 基于Typescript的v2ray包：[ts2ray](https://github.com/See-Night/ts2ray)
 - 基于ts2ray的v2ray配置自动生成命令行工具：[ts2ray-cli](https://github.com/See-Night/ts2ray-cli)
