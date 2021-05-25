@@ -5,6 +5,7 @@
 💬 Ask me about Email <u>wangshibo142@gmail.com</u>
 
 - 记录Bilibili弹幕：[BiliComment](https://github.com/See-Night/BiliComment)
+- Bilibili av/bv互转工具：[AV2BV-BV2AV](https://github.com/See-Night/AV2BV-BV2AV)
 - 自动化直播录制器：[RecStream](https://github.com/See-Night/RecStream)
 - 基于web的v2ray可视化配置工具：[V2Manager](https://github.com/See-Night/V2Manager)
 - 基于Typescript的v2ray包：[ts2ray](https://github.com/See-Night/ts2ray)
