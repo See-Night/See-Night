@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Web frond-end and Python
 
-💬 Ask me about Email <u>wangshibo142@gmail.com</u>
+💬 Ask me about Email <u>see2night@outlook.com</u>
 
 - 记录Bilibili弹幕：[BiliDanmaku](https://github.com/See-Night/BiliDanmaku)
 - 自动化直播录制器：[DDMonitor](https://github.com/See-Night/DDMonitor)
