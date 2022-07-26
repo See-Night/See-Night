@@ -5,7 +5,7 @@
 💬 Ask me about Email <u>see2night@outlook.com</u>
 
 - 记录Bilibili弹幕：[BiliDanmaku](https://github.com/See-Night/BiliDanmaku)
-- 自动化直播录制器：[DDMonitor](https://github.com/See-Night/DDMonitor)
+- 自动化直播录制器：[BiliLive](https://github.com/See-Night/BiliLive)
 - 基于Typescript的v2ray包：[ts2ray](https://github.com/See-Night/ts2ray)
 - 基于ts2ray的v2ray配置自动生成工具：[ts2ray-cli](https://github.com/See-Night/ts2ray-cli)
 
