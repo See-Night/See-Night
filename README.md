@@ -1,8 +1,8 @@
-### Hi, I'm SeeNight👋 | 🏠My Blog: [β Plan](https://1145141919810.wang)
+### Hi, I'm SeeNight👋 | 🏠My Blog: [β Plan](https://blog.see2night.top)
 
 🌱 I’m currently learning Web frond-end and Python
 
-💬 Ask me about Email <u>see2night@outlook.com</u>
+💬 Ask me about Email <u>admin@see2night.top</u>
 
 - 记录Bilibili弹幕：[BiliDanmaku](https://github.com/See-Night/BiliDanmaku)
 - 自动化直播录制器：[BiliLive](https://github.com/See-Night/BiliLive)
