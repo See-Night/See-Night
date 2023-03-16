@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Web frond-end and Python
 
-💬 Ask me about Email <u>admin@see2night.top</u>, or contact me through [matrix](https://matrix.org/#/@seenight:matrix.org)
+💬 Ask me about Email <u>admin@see2night.top</u>, or contact me through [matrix](https://matrix.to/#/@seenight:matrix.org)
 
 - 记录Bilibili弹幕：[BiliDanmaku](https://github.com/See-Night/BiliDanmaku)
 - 自动化直播录制器：[BiliLive](https://github.com/See-Night/BiliLive)
