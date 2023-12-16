@@ -1,4 +1,4 @@
-### Hi, I'm SeeNight👋 | 🏠My Blog: [β Plan](https://blog.see2night.top)
+### Hi, I'm SeeNight👋 | 🏠[My Blog](https://blog.see2night.top)
 
 🌱 I’m currently learning Web frond-end and Python
 
